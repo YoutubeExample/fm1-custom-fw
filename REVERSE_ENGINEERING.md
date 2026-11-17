@@ -437,4 +437,6 @@ With the rise of custom community firmwares, community discussions have raised v
    Cassette-futurism folding laptop enclosure holding an M-VAVE FM-1 alongside an external smartphone (Galaxy S22 Ultra / Pixel 5) as a secondary display running Paleotone's USB second-screen companion app.
 6. **[Retro Console Stand for FM-1 and Scale Synth](https://www.reddit.com/r/MVaveFM1/comments/1xjgw3p/update_retro_console_stand_for_fm1_and_scale/):**
    Custom 3D-printed desktop retro console stand dock designed to hold the M-VAVE FM-1 alongside complementary compact grooveboxes and scale synthesizers.
-
+7. **[M-VAVE FM-1 Ergonomic Handles/Controller Grip v2 (MakerWorld #3605700](https://makerworld.com/en/models/3605700):**
+   V2/Larger version of the "Comfort Grip/Handle" above. Snap-fit with defined handles to hold the device easily.
+   
